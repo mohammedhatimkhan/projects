@@ -1,1 +1,1 @@
-# All projects related to ** Semantic Segmentation **
+# All projects related to **Semantic Segmentation**
